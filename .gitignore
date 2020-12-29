@@ -1,0 +1,21 @@
+target/
+
+# Temporary files
+.DS_STORE
+*.log
+*.bak
+
+# Eclipse related
+*.classpath
+*.project
+.settings
+bin/
+out/
+
+# IntelliJ related
+.idea/
+dist/
+build/
+*.ipr
+*.iws
+.idea
