@@ -1,9 +1,0 @@
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/OnResponseInterceptor.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/AsyncCallInterceptor.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/OnFailureInterceptor.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/EnhanceRequiredInfo.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/define/RealCallInstrumentation.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/define/CallbackInstrumentation.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/define/AsyncCallInstrumentation.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/RealCallInterceptor.java
-/Users/zengqiang/Downloads/skywalking-8.3.0/apm-sniffer/apm-sdk-plugin/okhttp-4.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/okhttp/v3/EnqueueInterceptor.java
